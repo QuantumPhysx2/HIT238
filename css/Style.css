@@ -16,6 +16,11 @@ h1, p {
     padding: 5px 10px;
 }
 
+.container {
+    background-color: #222;
+    border-radius: 3px;
+}
+
 @media only screen and (max-width: 320px) {
     * {
         background: red;
