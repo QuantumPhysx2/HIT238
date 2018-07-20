@@ -5,9 +5,8 @@
     font-size: 20px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 320px) {
     * {
         background: red;
-        font-size: 3px;
     }
 }
