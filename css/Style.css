@@ -1,4 +1,7 @@
 * {
+    margin: 0px;
+    padding: 0px;
+    background-color; #222;
     font-family: "Arial";
     font-size: 21px;
 }
@@ -15,7 +18,7 @@ h1, p {
 }
 
 .container {
-    background-color: #222;
+    background-color: #fff;
     border-radius: 3px;
 }
 
