@@ -45,3 +45,13 @@ body {
   border-radius: 3px;
   color: #222;
 }
+
+@media only screen and (max-width: 320px) {
+    header {
+      font-size: 18px;
+    }
+    
+    .card {
+      font-size: 18px;
+    }
+}
