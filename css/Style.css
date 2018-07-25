@@ -27,7 +27,7 @@ header li {
 }
 
 header ul li a {
-  padding: 3px 8px;
+  padding: 3px 8px 3px 0px;
   text-decoration: none;
   color: #fff;
 }
