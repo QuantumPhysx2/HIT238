@@ -1,27 +1,19 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    font-family: "Arial";
-    font-size: 21px;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  font-size: 19px;
 }
 
-ul {
-    margin: 15px 20px;
-    padding: 5px 10px;
-    list-style: none;
+/*Page Header*/
+header {
+  display: grid;
+  grid-template-rows: 1fr;
+  background: #0e0e0e;
+  border-radius: 0px 0px 1px 1px;
 }
 
-h1, p {
-    margin: 15px 20px;
-    padding: 5px 10px;
-}
-
-.container {
-    border-radius: 3px;
-}
-
-@media only screen and (max-width: 320px) {
-    * {
-        background: red;
-    }
+/*Page Body*/
+body {
+  background: #222;
 }
