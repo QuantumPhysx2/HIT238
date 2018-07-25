@@ -33,6 +33,10 @@ header ul li a {
   color: #fff;
 }
 
+header ul li a:hover {
+  background-color: blue;
+}
+
 /*Page Body*/
 body {
   background: #474746;
