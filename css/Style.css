@@ -31,6 +31,10 @@ header ul li a {
   color: #fff;
 }
 
+header ul li a:first-child {
+  border-right: 1px solid #f76248;
+}
+
 /*Page Body*/
 body {
   background: #474746;
