@@ -18,9 +18,12 @@ header ul li a {
 
 /*Page Body*/
 body {
-  margin: 10px;
-  padding: 5px 10px;
   background: #222;
   color: #fff;
+}
+
+.container {
+  margin: 10px;
+  padding: 5px 10px;
   text-align: center;
 }
