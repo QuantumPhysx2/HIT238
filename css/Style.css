@@ -19,7 +19,6 @@ header ul li a {
 /*Page Body*/
 body {
   background: #222;
-  color: #fff;
 }
 
 .container {
@@ -31,4 +30,5 @@ body {
 .card {
   background: #fff;
   border-radius: 3px;
+  color: #222;
 }
