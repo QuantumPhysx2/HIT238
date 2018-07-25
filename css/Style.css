@@ -31,7 +31,7 @@ header ul li a {
   color: #fff;
 }
 
-header ul li a:first-child {
+header ul li a:nth-child(1) {
   border-right: 1px solid #f76248;
 }
 
