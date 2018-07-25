@@ -9,13 +9,15 @@
 header {
   background: #0e0e0e;
   border-radius: 0px 0px 1px 1px;
+  color: #fff;
 }
 
-header ul {
+header ul li a {
   text-decoration: none;
 }
 
 /*Page Body*/
 body {
   background: #222;
+  color: #fff;
 }
