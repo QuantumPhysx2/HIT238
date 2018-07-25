@@ -7,14 +7,12 @@
 
 /*Page Header*/
 header {
-  display: grid;
-  grid-template-rows: 1fr;
   background: #0e0e0e;
   border-radius: 0px 0px 1px 1px;
 }
 
 header ul {
-  list-style: none;
+  list-style-type: none;
 }
 
 /*Page Body*/
