@@ -7,6 +7,7 @@
 
 /*Page Header*/
 header {
+  display: grid;
   margin: 0px 0px 15px 0px;
   padding: 20px 0px;
   background: #0e0e0e;
@@ -38,6 +39,8 @@ body {
 }
 
 .container {
+  display: grid;
+  grid-template-columns: 1fr;         /*CHANGE ME WHEN I GET MORE CONTENT*/
   margin: 10px;
   padding: 5px 10px;
   text-align: center;
