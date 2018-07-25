@@ -30,11 +30,11 @@ header li {
 header ul li a {
   text-decoration: none;
   color: #fff;
-  transition: 0.5s ease-in;
+  transition: 0.25s ease-in;
 }
 
 header ul li a:hover {
-  background-color: blue;
+  background-color: #f76248;
 }
 
 /*Page Body*/
