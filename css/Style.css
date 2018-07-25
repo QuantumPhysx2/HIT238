@@ -7,11 +7,10 @@
 
 /*Page Header*/
 header {
-  margin: 15px 0px;
-  padding: 10px 0px;
-  background: #0e0e0e;
+  margin: 0px 0px 15px 0px;
+  padding: 20px 0px;
+  background: #d9fffd;
   border-radius: 0px 0px 1px 1px;
-  color: #fff;
 }
 
 header ul {
