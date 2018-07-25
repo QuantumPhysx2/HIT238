@@ -12,6 +12,18 @@ header {
   color: #fff;
 }
 
+header ul {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+}
+
+header li {
+  margin: 3px 12px;
+  padding: 3px 5px;
+  display: inline;
+}
+
 header ul li a {
   text-decoration: none;
 }
