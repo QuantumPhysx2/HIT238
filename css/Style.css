@@ -27,3 +27,8 @@ body {
   padding: 5px 10px;
   text-align: center;
 }
+
+.card {
+  background: #fff;
+  border-radius: 3px;
+}
