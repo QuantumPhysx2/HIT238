@@ -9,7 +9,7 @@
 header {
   margin: 0px 0px 15px 0px;
   padding: 20px 0px;
-  background: #d9fffd;
+  background: #0e0e0e;
   border-radius: 0px 0px 1px 1px;
 }
 
@@ -31,7 +31,7 @@ header ul li a {
 
 /*Page Body*/
 body {
-  background: linear-gradient(to bottom, #222, #d9fffd);
+  background: #0e0e0e;
 }
 
 .container {
