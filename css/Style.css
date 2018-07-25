@@ -32,10 +32,6 @@ header ul li a {
   color: #fff;
 }
 
-header ul li a:nth-child(1) {
-  border-right: 1px solid #f76248;
-}
-
 /*Page Body*/
 body {
   background: #474746;
