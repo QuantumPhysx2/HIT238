@@ -28,9 +28,9 @@ header li {
 }
 
 header ul li a {
-  padding: 3px 8px 3px 0px;
   text-decoration: none;
   color: #fff;
+  transition: 0.5s ease-in;
 }
 
 header ul li a:hover {
