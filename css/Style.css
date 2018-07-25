@@ -11,6 +11,7 @@ header {
   padding: 20px 0px;
   background: #0e0e0e;
   border-radius: 0px 0px 1px 1px;
+  border-bottom: 1px solid #f76248;
 }
 
 header ul {
@@ -30,7 +31,9 @@ header ul li a {
 }
 
 /*Page Body*/
-
+body {
+  background: #474746;
+}
 
 .container {
   margin: 10px;
