@@ -4,6 +4,6 @@ if ("serviceWorker" in navigator) {
 			console.log("Success", registration.scope);
 		}, function(err) {
 			console.log("Fail", err);
-		}
+		})
 	})
-});
+};
