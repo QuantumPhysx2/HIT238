@@ -3,7 +3,6 @@
     "short_name": "Vwr",
     "start_url": ".",
     "display": "standalone",
-	"orientation": "landscape",
     "background_color": "#FFF",
     "theme_color": "#123557"
 }
