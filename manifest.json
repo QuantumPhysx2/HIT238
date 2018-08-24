@@ -1,7 +1,7 @@
 {
     "name": "Viewr",
     "short_name": "Vwr",
-    "start_url": ".",
+    "start_url": "test",
     "display": "standalone",
 	"orientation": "landscape",
     "background_color": "#FFF",
