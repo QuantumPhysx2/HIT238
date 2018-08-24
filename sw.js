@@ -22,6 +22,7 @@ self.addEventListener("fetch", function(event) {
 		caches.match(event.request)
 			.then(function(response) {
 				if (response) {
+					console.log("Fetch Success");
 					return response;
 				}
 			return fetch(event.request);
