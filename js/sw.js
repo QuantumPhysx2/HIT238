@@ -4,7 +4,7 @@ var CACHE_NAME = CACHE_TITLE + '-' + 'CACHE_VERSION';
 var urlsToCache = [
   "index.html",
   "css/Style.css",
-  "main.js"
+  "js/main.js"
 ];
 
 self.addEventListener("install", function(event) {
